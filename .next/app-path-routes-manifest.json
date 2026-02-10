@@ -1,0 +1,9 @@
+{
+  "/api/webhook/route": "/api/webhook",
+  "/api/checkout/route": "/api/checkout",
+  "/_not-found/page": "/_not-found",
+  "/cancel/page": "/cancel",
+  "/product/[id]/page": "/product/[id]",
+  "/page": "/",
+  "/success/page": "/success"
+}
