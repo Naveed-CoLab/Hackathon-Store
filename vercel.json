@@ -1,0 +1,5 @@
+{
+  "//": "Ensure Vercel treats this as a Next.js app and uses .next as output.",
+  "framework": "nextjs"
+}
+
